@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rajashakhar Nampelli 
 - 👀 I’m interested in technology, movies, photography, cars.
-- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on data analyst roles
 - 📫 Reach me at shekar2012sri@gmail.com
 
