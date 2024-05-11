@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajashakhar Nampelli 
 - 👀 I’m interested in Technology (These days mainly on AI 😉), Movies😁, Photography🎬, Cars🚕.
-- 💞️ I’m looking to collaborate on Data Analyst roles and Projests.
+- 💞️ I'm looking to collaborate on data-driven roles and projects.
 - 📫 Reach me at shekar2012sri@gmail.com
 - 
 ### This is my Academic Project that I have done in my university while doing my masters.
